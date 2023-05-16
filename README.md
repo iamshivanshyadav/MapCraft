@@ -35,9 +35,6 @@ This project demonstrates the integration of Google Maps API to create a custom 
 
 Contributions are welcome! If you find any issues, have suggestions for improvements, or want to add new features, please create a pull request or submit an issue. Your contributions can help enhance the functionality and usability of this project.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
 
 ## Credits
 
